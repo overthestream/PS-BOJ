@@ -4,5 +4,6 @@ Problem Solving Solutions for Baekjoon Online Judge
 
 GOLD III
 
-Solved : 1000 A + B 
+Solved : 
+	1000 A + B 
  
