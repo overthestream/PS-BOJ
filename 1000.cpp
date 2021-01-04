@@ -1,3 +1,4 @@
+// 노정훈 고컴 과탑먹자!
 #include <stdio.h>
 #include <stdlib.h>
 
