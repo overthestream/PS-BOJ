@@ -9,5 +9,5 @@
 	2104 부분배열 고르기 (Divide & conquer)
 	2316 도시 왕복하기 2 (Network Flow) 
 	2357 최솟값과 최댓값 (Segment Tree)
-	9426 중앙값 측정 (Segment Tree kth problem) 
+	9426 중앙값 측정 (kth Problem using Segment Tree) 
 	17412 도시 왕복하기 1 (Network Flow)
