@@ -3,7 +3,7 @@
 	1 day 1 solve 
 
 # Solved : 
-   1000 A + B
+	1000 A + B
 	1717 집합의 표현 (Union Find)
 	2042 구간 합 구하기 (Segment Tree)
 	2104 부분배열 고르기 (Divide & conquer)
