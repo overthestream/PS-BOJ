@@ -2,8 +2,7 @@
 	Problem Solving Solutions for Baekjoon Online Judge
 	1 day 1 solve 
 
-Solved : 
-
+# Solved : 
    1000 A + B
 	1717 집합의 표현 (Union Find)
 	2042 구간 합 구하기 (Segment Tree)
