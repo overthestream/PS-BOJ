@@ -1,7 +1,6 @@
 # PS-BOJ
-
-Problem Solving Solutions for Baekjoon Online Judge
-
+	Problem Solving Solutions for Baekjoon Online Judge
+	1 day 1 solve 
 
 Solved : 
 
