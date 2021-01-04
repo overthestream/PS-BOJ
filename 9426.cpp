@@ -37,7 +37,7 @@ int main() {
     int h = (int)ceil(log2(MAXN + 1));
     int tree_size = (1 << (h + 1));
     int cnt = (k + 1) / 2;
-    vector<int> tree(tree_size, 0);
+    vector<int> tree(tree_size, 0); // vector tree 
     vector<int> a(n + 1, 0);
     ll ans = 0;
     for (int i = 1; i <= n; i++) {
