@@ -2,12 +2,12 @@
 
     Problem Solving Solutions for Baekjoon Online Judge
     1 day 1 solve
-    
-# BOJ Profile    
+
+## BOJ Profile
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bln01)
 
-# Solved :
+## Solved
 
     1000 A + B
     1005 ACM Craft (Topological Sort)
