@@ -49,7 +49,7 @@
 
 using namespace std;
 
-int time[1001], result[1001];
+int ttime[1001], result[1001];
 
 vector<int> adj[1001];
 int indegree[1001];
@@ -69,8 +69,8 @@ int main()
          adj[i].clear();
       for (int i = 1; i <= N; i++)
       {
-         scanf("%d", time + i);
-         result[i] = time[i];
+         scanf("%d", ttime + i);
+         result[i] = ttime[i];
       }
       for (int i = 0; i < K; i++)
       {
@@ -99,7 +99,7 @@ int main()
       {
          int cur = ans.front();
          for (int i = 0; i < adj[cur].size(); i++)
-            result[adj[cur][i]] = max(result[cur] + time[adj[cur][i]], result[adj[cur][i]]);
+            result[adj[cur][i]] = max(result[cur] + ttime[adj[cur][i]], result[adj[cur][i]]);
 
          ans.pop();
       }
