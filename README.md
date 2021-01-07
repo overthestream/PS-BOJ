@@ -11,6 +11,7 @@
 
     1000 A + B
     1005 ACM Craft (Topological Sort)
+    1016 제곱 ㄴㄴ수 (Sieve of Eratosthenes)
     1717 집합의 표현 (Union Find)
     1766 문제집 (Topological Sort)
     2042 구간 합 구하기 (Segment Tree)
