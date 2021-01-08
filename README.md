@@ -12,7 +12,6 @@
     1000 A + B
     1005 ACM Craft (Topological Sort)
     1016 제곱 ㄴㄴ수 (Sieve of Eratosthenes)
-    11438 LCA 2 (Lowest Common Ancestor)
     1717 집합의 표현 (Union Find)
     1766 문제집 (Topological Sort)
     2042 구간 합 구하기 (Segment Tree)
@@ -23,5 +22,9 @@
     3117 YouTube (Sparse Table)
     5651 완전 중요한 간선 (Network Flow)
     9426 중앙값 측정 (kth Problem using Segment Tree)
+    11438 LCA 2 (Lowest Common Ancestor)
+    11726 2 x n 타일링 (Dynamic Programming)
+    13306 트리 (Offline Query & Union Find)
+    14577 일기 예보 (Offline Query & Segment Tree)
     17412 도시 왕복하기 1 (Network Flow)
     17435 합성함수와 쿼리 (Sparse Table)
