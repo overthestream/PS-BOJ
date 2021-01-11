@@ -23,6 +23,7 @@
     2357 최솟값과 최댓값 (Segment Tree)
     3117 YouTube (Sparse Table)
     5651 완전 중요한 간선 (Network Flow)
+    6086 최대 유랑 (Network Flow)
     9426 중앙값 측정 (kth Problem using Segment Tree)
     11438 LCA 2 (Lowest Common Ancestor)
     11726 2 x n 타일링 (Dynamic Programming)
