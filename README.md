@@ -26,7 +26,7 @@
     6086 최대 유랑 (Network Flow)
     9426 중앙값 측정 (kth Problem using Segment Tree)
     9663 N-Queen (Back Tracking)
-    11054
+    11054 가장 긴 바이토닉 부분 수열(Dynamic Programming)
     11055 가장 큰 증가 부분 수열 (Dynamic Programming)
     11438 LCA 2 (Lowest Common Ancestor)
     11722 가장 긴 감소 부분 수열 (Dynamuc Programming)
