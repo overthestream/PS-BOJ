@@ -22,6 +22,7 @@
     2252 줄 세우기 (Topological Sort)
     2316 도시 왕복하기 2 (Network Flow)
     2357 최솟값과 최댓값 (Segment Tree)
+    2618 경찰차(Dynamic Programming)
     3117 YouTube (Sparse Table)
     5651 완전 중요한 간선 (Network Flow)
     6086 최대 유랑 (Network Flow)
