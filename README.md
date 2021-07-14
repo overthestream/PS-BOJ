@@ -17,6 +17,7 @@
     1766 문제집 (Topological Sort)
     1937 욕심쟁이 판다 (Dynamic Programming & BFS)
     2042 구간 합 구하기 (Segment Tree)
+    2098 외판원 순회(Dynamic Programming & Bit Masking)
     2104 부분배열 고르기 (Divide & conquer)
     2188 축사 배정 (Network Flow)
     2252 줄 세우기 (Topological Sort)
