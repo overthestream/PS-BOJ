@@ -26,6 +26,7 @@
     2357 최솟값과 최댓값 (Segment Tree)
     2618 경찰차(Dynamic Programming)
     3117 YouTube (Sparse Table)
+    5419 북서풍 (Segment Tree)
     5651 완전 중요한 간선 (Network Flow)
     6086 최대 유랑 (Network Flow)
     7576 토마토 (BFS)
