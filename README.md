@@ -19,6 +19,7 @@
     2042 구간 합 구하기 (Segment Tree)
     2098 외판원 순회(Dynamic Programming & Bit Masking)
     2104 부분배열 고르기 (Divide & conquer)
+    2170 선 긋기 (Sweeping)
     2188 축사 배정 (Network Flow)
     2252 줄 세우기 (Topological Sort)
     2316 도시 왕복하기 2 (Network Flow)
