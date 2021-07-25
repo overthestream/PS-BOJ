@@ -25,6 +25,7 @@
     2316 도시 왕복하기 2 (Network Flow)
     2357 최솟값과 최댓값 (Segment Tree)
     2618 경찰차(Dynamic Programming)
+    2887 행성 터널 (Minimum Spanning Tree)
     3117 YouTube (Sparse Table)
     5419 북서풍 (Segment Tree)
     5651 완전 중요한 간선 (Network Flow)
