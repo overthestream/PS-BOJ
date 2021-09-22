@@ -16,6 +16,7 @@
     1167 트리의 지름(DFS)
     1238 파티(dijkstra)
     1259 팰린드롬수(String)
+    1504 특정한 최단 경로(Dijkstra)
     1717 집합의 표현 (Union Find)
     1766 문제집 (Topological Sort)
     1916 최소비용 구하기(Dijkstra)
