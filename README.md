@@ -48,6 +48,7 @@
     11779 최소비용 구하기 2(Dijkstra & Backtracking)
     13306 트리 (Offline Query & Union Find)
     14577 일기 예보 (Offline Query & Segment Tree)
+    14927 전구 끄기(Brute Force)
     14939 불 끄기(Brute Force)
     16637 괄호 추가하기(DFS)
     17412 도시 왕복하기 1 (Network Flow)
