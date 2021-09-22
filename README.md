@@ -19,6 +19,7 @@
     1717 집합의 표현 (Union Find)
     1766 문제집 (Topological Sort)
     1916 최소비용 구하기(Dijkstra)
+    1918 후위 표기식(Stack)
     1937 욕심쟁이 판다 (Dynamic Programming & BFS)
     2042 구간 합 구하기 (Segment Tree)
     2098 외판원 순회(Dynamic Programming & Bit Masking)
