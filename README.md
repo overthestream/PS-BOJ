@@ -65,5 +65,6 @@
     14927 전구 끄기(Brute Force)
     14939 불 끄기(Brute Force)
     16637 괄호 추가하기(DFS)
+    17404 RGB 거리 2 (Dynamic Programming)
     17412 도시 왕복하기 1 (Network Flow)
     17435 합성함수와 쿼리 (Sparse Table)
