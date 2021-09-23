@@ -33,6 +33,7 @@
     2294 동전 2 (Dynamic Programming)
     2316 도시 왕복하기 2 (Network Flow)
     2357 최솟값과 최댓값 (Segment Tree)
+    2565 전깃줄 (LIS)
     2618 경찰차(Dynamic Programming)
     2887 행성 터널 (Minimum Spanning Tree)
     3117 YouTube (Sparse Table)
