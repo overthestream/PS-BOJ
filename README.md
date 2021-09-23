@@ -56,6 +56,7 @@
     11779 최소비용 구하기 2(Dijkstra & Backtracking)
     12015 가장 긴 증가하는 부분 수열 2 (LIS)
     12738 가장 긴 증가하는 부분 수열 3 (LIS)
+    12852 1로 만들기 2 (Dynamic Programming)
     12920 평범한 배낭 2 (Knapsack)
     13306 트리 (Offline Query & Union Find)
     14002 가장 긴 증가하는 부분 수열 4 (LIS)
