@@ -43,6 +43,7 @@
     9465 스티커(Dynamic Programming)
     9663 N-Queen (Back Tracking)
     10816 숫자 카드(Bimary Search)
+    11053 가장 긴 증가하는 부분 수열 (LIS)
     11054 가장 긴 바이토닉 부분 수열(Dynamic Programming)
     11055 가장 큰 증가 부분 수열 (Dynamic Programming)
     11438 LCA 2 (Lowest Common Ancestor)
