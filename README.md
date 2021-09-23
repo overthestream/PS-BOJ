@@ -38,6 +38,7 @@
     6086 최대 유랑 (Network Flow)
     7576 토마토 (BFS)
     9426 중앙값 측정 (kth Problem using Segment Tree)
+    9465 스티커(Dynamic Programming)
     9663 N-Queen (Back Tracking)
     10816 숫자 카드(Bimary Search)
     11054 가장 긴 바이토닉 부분 수열(Dynamic Programming)
