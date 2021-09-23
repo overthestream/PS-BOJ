@@ -49,6 +49,7 @@
     11722 가장 긴 감소 부분 수열 (Dynamuc Programming)
     11726 2 x n 타일링 (Dynamic Programming)
     11779 최소비용 구하기 2(Dijkstra & Backtracking)
+    12920 평범한 배낭 2 (Knapsack)
     13306 트리 (Offline Query & Union Find)
     14577 일기 예보 (Offline Query & Segment Tree)
     14927 전구 끄기(Brute Force)
