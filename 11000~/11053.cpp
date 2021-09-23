@@ -5,12 +5,12 @@ using namespace std;
 
 int arr[1000];
 
-int bSearch(int lo, int hi, int num, int *arr)
+int bSearch(int lo, int hi, int num, vector<int> lis)
 {
   while (lo < hi)
   {
     int mid = (lo + hi) / 2;
-    if (arr[mid] < num)
+    if (lis[mid] < num)
       lo = mid + 1;
     else
       hi = mid;
@@ -26,7 +26,7 @@ int getLISsize(int *arr, int len)
     if (arr[i] > lis.back())
       lis.push_back(arr[i]);
     else
-      lis[bSearch(0, lis.size() - 1, arr[i], arr)] = arr[i];
+      lis[bSearch(0, lis.size() - 1, arr[i], lis)] = arr[i];
   return lis.size();
 }
 
