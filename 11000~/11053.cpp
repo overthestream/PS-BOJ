@@ -3,21 +3,31 @@
 
 using namespace std;
 
-vector<int> lis;
+int arr[1000];
 
-int getPos(int num)
+int bSearch(int lo, int hi, int num, int *arr)
 {
-  int lo = 0, hi = lis.size() - 1;
-
   while (lo < hi)
   {
     int mid = (lo + hi) / 2;
-    if (lis[mid] < num)
+    if (arr[mid] < num)
       lo = mid + 1;
     else
       hi = mid;
   }
   return hi;
+}
+
+int getLISsize(int *arr, int len)
+{
+  vector<int> lis;
+  lis.push_back(arr[0]);
+  for (int i = 1; i < len; ++i)
+    if (arr[i] > lis.back())
+      lis.push_back(arr[i]);
+    else
+      lis[bSearch(0, lis.size() - 1, arr[i], arr)] = arr[i];
+  return lis.size();
 }
 
 int main()
@@ -27,15 +37,8 @@ int main()
   cout.tie(0);
 
   int n, tmp;
-  cin >> n >> tmp;
-  lis.push_back(tmp);
-  for (int i = 1; i < n; ++i)
-  {
-    cin >> tmp;
-    if (tmp > lis.back())
-      lis.push_back(tmp);
-    else
-      lis[getPos(tmp)] = tmp;
-  }
-  cout << lis.size();
+  cin >> n;
+  for (int i = 0; i < n; ++i)
+    cin >> arr[i];
+  cout << getLISsize(arr, n);
 }
