@@ -54,6 +54,7 @@
     12738 가장 긴 증가하는 부분 수열 3 (LIS)
     12920 평범한 배낭 2 (Knapsack)
     13306 트리 (Offline Query & Union Find)
+    14002 가장 긴 증가하는 부분 수열 4 (LIS)
     14577 일기 예보 (Offline Query & Segment Tree)
     14927 전구 끄기(Brute Force)
     14939 불 끄기(Brute Force)
