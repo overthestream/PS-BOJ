@@ -35,6 +35,7 @@
     2352 반도체 설계 (LIS)
     2357 최솟값과 최댓값 (Segment Tree)
     2565 전깃줄 (LIS)
+    2568 전깃줄 2 (LIS)
     2618 경찰차(Dynamic Programming)
     2887 행성 터널 (Minimum Spanning Tree)
     3117 YouTube (Sparse Table)
