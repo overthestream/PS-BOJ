@@ -32,6 +32,7 @@
     2293 동전 1 (Dynamic Programming)
     2294 동전 2 (Dynamic Programming)
     2316 도시 왕복하기 2 (Network Flow)
+    2352 반도체 설계 (LIS)
     2357 최솟값과 최댓값 (Segment Tree)
     2565 전깃줄 (LIS)
     2618 경찰차(Dynamic Programming)
