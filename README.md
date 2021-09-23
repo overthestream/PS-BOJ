@@ -29,6 +29,7 @@
     2188 축사 배정 (Network Flow)
     2252 줄 세우기 (Topological Sort)
     2293 동전 1 (Dynamic Programming)
+    2294 동전 2 (Dynamic Programming)
     2316 도시 왕복하기 2 (Network Flow)
     2357 최솟값과 최댓값 (Segment Tree)
     2618 경찰차(Dynamic Programming)
