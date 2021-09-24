@@ -14,6 +14,7 @@
     1016 제곱 ㄴㄴ수 (Sieve of Eratosthenes)
     1102 발전소(Dynamic Programming)
     1167 트리의 지름(DFS)
+    1197 최소 스패닝 트리 (MST)
     1238 파티(dijkstra)
     1259 팰린드롬수(String)
     1504 특정한 최단 경로(Dijkstra)
