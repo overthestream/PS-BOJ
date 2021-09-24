@@ -19,6 +19,7 @@
     1504 특정한 최단 경로(Dijkstra)
     1717 집합의 표현 (Union Find)
     1766 문제집 (Topological Sort)
+    1806 부분합 (Two Pointer)
     1916 최소비용 구하기(Dijkstra)
     1918 후위 표기식(Stack)
     1965 상자 넣기 (LIS)
