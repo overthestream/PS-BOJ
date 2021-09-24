@@ -29,6 +29,7 @@
     2104 부분배열 고르기 (Divide & conquer)
     2170 선 긋기 (Sweeping)
     2188 축사 배정 (Network Flow)
+    2239 스도쿠 (DFS)
     2252 줄 세우기 (Topological Sort)
     2293 동전 1 (Dynamic Programming)
     2294 동전 2 (Dynamic Programming)
