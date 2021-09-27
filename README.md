@@ -37,6 +37,7 @@
     2316 도시 왕복하기 2 (Network Flow)
     2352 반도체 설계 (LIS)
     2357 최솟값과 최댓값 (Segment Tree)
+    2447 별찍기 - 10 (divide & conquer)
     2533 사회망 서비스 (SNS) (DP in Tree)
     2565 전깃줄 (LIS)
     2568 전깃줄 2 (LIS)
