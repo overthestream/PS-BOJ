@@ -26,6 +26,7 @@
     1965 상자 넣기 (LIS)
     1937 욕심쟁이 판다 (Dynamic Programming & BFS)
     2042 구간 합 구하기 (Segment Tree)
+    2086 피보나치 수의 합 (Fibonacci & Divede and Conquer)
     2098 외판원 순회(Dynamic Programming & Bit Masking)
     2104 부분배열 고르기 (Divide & conquer)
     2170 선 긋기 (Sweeping)
