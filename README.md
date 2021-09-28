@@ -62,6 +62,7 @@
     11444 피보나치 수 6 (Fibonacci & Divede and Conquer)
     11722 가장 긴 감소 부분 수열 (Dynamuc Programming)
     11726 2 x n 타일링 (Dynamic Programming)
+    11778 피보나치 수와 최대 공약수 (Fibonacci & Divede and Conquer)
     11779 최소비용 구하기 2(Dijkstra & Backtracking)
     12015 가장 긴 증가하는 부분 수열 2 (LIS)
     12738 가장 긴 증가하는 부분 수열 3 (LIS)
