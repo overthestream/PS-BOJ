@@ -63,6 +63,7 @@
     11442 홀수번째 피보나치 수의 합 (Fibonacci & Divede and Conquer)
     11443 짝수번째 피보나치 수의 합 (Fibonacci & Divede and Conquer)
     11444 피보나치 수 6 (Fibonacci & Divede and Conquer)
+    11689 GCD(n, k) = 1 (Number Theory, Euler Pi Function)
     11722 가장 긴 감소 부분 수열 (Dynamuc Programming)
     11726 2 x n 타일링 (Dynamic Programming)
     11778 피보나치 수와 최대 공약수 (Fibonacci & Divede and Conquer)
