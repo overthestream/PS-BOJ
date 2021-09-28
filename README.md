@@ -59,6 +59,7 @@
     11054 가장 긴 바이토닉 부분 수열(Dynamic Programming)
     11055 가장 큰 증가 부분 수열 (Dynamic Programming)
     11438 LCA 2 (Lowest Common Ancestor)
+    11440 피보나치 수의 제곱의 합 (Fibonacci & Divede and Conquer)
     11442 홀수번째 피보나치 수의 합 (Fibonacci & Divede and Conquer)
     11443 짝수번째 피보나치 수의 합 (Fibonacci & Divede and Conquer)
     11444 피보나치 수 6 (Fibonacci & Divede and Conquer)
